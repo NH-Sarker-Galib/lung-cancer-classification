@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.h5
+*.hdf5
+*.tif
+*.tiff
+
+# Generated datasets/images
+generated_CT_images/
+generated_MRI_images/
+CT_dataset_clean/
+CT_dataset_ready/
+CT_dataset_split/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Local experiment files
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
