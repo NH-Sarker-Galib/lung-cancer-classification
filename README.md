@@ -418,7 +418,7 @@ pip install -r requirements.txt
 
 
 
-> Note: `requirements.txt` will be added to the repository separately.
+
 
 
 
