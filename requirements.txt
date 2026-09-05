@@ -8,3 +8,5 @@ opencv-python
 Pillow
 h5py
 tqdm
+timm
+grad-cam
